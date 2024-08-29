@@ -1,1 +1,1 @@
-The source code for: "Predicting the conformational selectivity of protein-protein interactions using AlphaFold-Multimer and sequence clustering"
+The source code for: "MSA clustering enhances AF-Multimer's ability to predict conformational landscapes of protein-protein interactions"
