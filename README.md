@@ -1,7 +1,8 @@
 **The source code for: "MSA clustering enhances AF-Multimer's ability to predict conformational landscapes of protein-protein interactions"**
 
-</br>
-![image](https://github.com/user-attachments/assets/5f3c89ed-28ce-4b78-a1af-9a74fce66eb8)
+
+![image](https://github.com/user-attachments/assets/f6332117-d3fe-4726-a794-187a34bb31a7)
+
 
 -data/
 
