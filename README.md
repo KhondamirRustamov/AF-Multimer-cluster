@@ -4,8 +4,8 @@
 
 -data/
 
-  Structure files and AF2/AF2-M scores for predicted proteins (files with big size weren't upload to GitHub - contact authors to get them)
+  </t>Structure files and AF2/AF2-M scores for predicted proteins (files with big size weren't upload to GitHub - contact authors to get them)
   
 -AF_Multimer_Cluster.ipynb
 
-  Easy Google Colab notebook for easy access to our pipeline.
+  </t>Easy Google Colab notebook for easy access to our pipeline.
